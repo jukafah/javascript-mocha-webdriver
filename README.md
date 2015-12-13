@@ -1,2 +1,2 @@
-# mocha-webdriver-demo
+# mocha-webdriver
 mocha demo with webdriver
