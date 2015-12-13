@@ -1,0 +1,17 @@
+{
+  "name": "mocha-webdriver-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "tapQA",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "selenium-webdriver": "*",
+    "should": "*"
+  }
+}
+
